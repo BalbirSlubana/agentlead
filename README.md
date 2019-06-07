@@ -1,3 +1,3 @@
 # agentlead
-# Download node_modules.zip and extract to agent folder
+# Install NodeJs for node modules into your project
 # After that it will looks like agent/node_modules/
